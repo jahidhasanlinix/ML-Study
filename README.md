@@ -1,5 +1,5 @@
 # ML-Study
-Topics that will be included here are-
+Topics including codes that will be included here are-
 1. Machine learning
 2. Deep learning
 3. Computer vision
